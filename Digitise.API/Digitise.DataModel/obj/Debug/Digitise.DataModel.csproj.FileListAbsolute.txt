@@ -1,0 +1,17 @@
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\Digitise.DataModel.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\Digitise.DataModel.pdb
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\DnsClient.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\MongoDB.Bson.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\MongoDB.Driver.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\System.Buffers.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\DnsClient.xml
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\MongoDB.Bson.xml
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\MongoDB.Driver.xml
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\obj\Debug\Digitise.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\obj\Debug\Digitise.DataModel.dll
+C:\Users\hfourie\Desktop\HARDUS\Projects\GitHub\digitise\digitise.api\Digitise.DataModel\obj\Debug\Digitise.DataModel.pdb
